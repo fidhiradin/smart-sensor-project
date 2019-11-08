@@ -5,6 +5,11 @@
  *      Author: Fidhi Pradini
  */
 
+//Woi, ni punya ilham slurrr
+
+
+
 /* coba comit baru
 HALLO BANG FIDHI
 */
+
